@@ -1,4 +1,4 @@
-# petravue
+# E-Commerce
 
 ## Project setup
 ```
